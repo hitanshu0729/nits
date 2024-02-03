@@ -1,0 +1,24 @@
+#button1:hover {
+    margin-top: 8px; /* This may not have a visible effect on hover */
+    background-color: greenyellow;
+    border: 2px solid green;
+    color: black;
+    box-shadow: 5px 5px -0.5x black; /* Adjust the values as needed */
+}
+
+#button1{
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+}
+input{
+    border: 3px solid black;
+}
+label{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+.toast{
+    margin-top: 200px;
+}
